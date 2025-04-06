@@ -1,0 +1,25 @@
+body{
+    background-color:orange;
+text-align: center;
+}
+h1{
+    position:center ;
+    color:orange;
+    size: 150px;
+    font-style: italic;
+    font-size: 100px;
+    font-weight: 150;
+    font: bold;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.para{
+    font-size: 50px;
+    color: brown;
+    background-color: orange;
+    font-style: italic;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
